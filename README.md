@@ -7,3 +7,4 @@ first of it coin design to be stable and trust compare to bitcoin and othe coin 
 ..
 .
 .
+.
